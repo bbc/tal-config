@@ -1,0 +1,25 @@
+{
+  "name": "tal-config",
+  "version": "0.1.0",
+  "description": "TV Configuration for TAL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oncletom/tal-config.git"
+  },
+  "keywords": [
+    "tv",
+    "platform",
+    "bbc",
+    "connected",
+    "tv"
+  ],
+  "author": "BBC Future Media",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/oncletom/tal-config/issues"
+  }
+}
