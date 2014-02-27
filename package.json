@@ -4,11 +4,11 @@
   "description": "TV Configuration for TAL.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter dot tests/*"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/oncletom/tal-config.git"
+    "url": "git://github.com/bbcrd/tal-config.git"
   },
   "keywords": [
     "tv",
@@ -17,12 +17,18 @@
     "connected",
     "tv"
   ],
-  "author": "BBC Future Media",
+  "author": [
+    "Thomas Parisot <thomas.parisot@bbc.co.uk> (https://oncletom.io)"
+  ],
   "license": "Apache-2",
   "bugs": {
-    "url": "https://github.com/oncletom/tal-config/issues"
+    "url": "https://github.com/bbcrd/tal-config/issues"
   },
   "dependencies": {
     "format": "~0.2.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.0",
+    "mocha": "^1.17.1"
   }
 }
