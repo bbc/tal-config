@@ -1,4 +1,4 @@
-# tal-config
+# tal-config [![Build Status](https://travis-ci.org/bbcrd/tal-config.png?branch=master)](https://travis-ci.org/bbcrd/tal-config)
 
 > Device configuration package for [TAL](http://fmtvp.github.io/tal/) Node.js backend ([`node-tal`](https://github.com/bbcrd/node-tal)) or any backend, really.
 
