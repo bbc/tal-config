@@ -20,6 +20,9 @@
   "author": [
     "Thomas Parisot <thomas.parisot@bbc.co.uk> (https://oncletom.io)"
   ],
+  "contributors": [
+    "Chris Needham <chris.needham@bbc.co.uk>"
+  ],
   "license": "Apache-2",
   "bugs": {
     "url": "https://github.com/bbcrd/tal-config/issues"
