@@ -24,9 +24,6 @@
   "bugs": {
     "url": "https://github.com/bbcrd/tal-config/issues"
   },
-  "dependencies": {
-    "format": "~0.2.1"
-  },
   "devDependencies": {
     "chai": "^1.9.0",
     "mocha": "^1.17.1"
