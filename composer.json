@@ -1,0 +1,13 @@
+{
+    "name": "bbc/tal-config",
+    "description": "Device configuration package for the TAL backend components.",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Thomas Parisot",
+            "email": "thomas.parisot@bbc.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
