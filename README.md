@@ -1,6 +1,6 @@
-# tal-config [![Build Status](https://travis-ci.org/bbcrd/tal-config.png?branch=master)](https://travis-ci.org/bbcrd/tal-config)
+# tal-config [![Build Status](https://travis-ci.org/bbc/tal-config.png?branch=master)](https://travis-ci.org/bbc/tal-config)
 
-> Device configuration package for [TAL](http://fmtvp.github.io/tal/) Node.js backend ([`node-tal`](https://github.com/bbcrd/node-tal)) or any backend, really.
+> Device configuration package for [TAL](http://fmtvp.github.io/tal/) Node.js backend ([`node-tal`](https://github.com/bbc/node-tal)) or any backend, really.
 
 It is basically JSON files with a couple of JavaScript helpers to access them quickly.
 
@@ -25,7 +25,7 @@ console.log(config.getJSON('devices', 'panasonic-tv_2013')); // -> TAL JSON conf
 
 ## Serving a TAL application with Node.js
 
-Use it in conjunction with [`node-tal`](https://github.com/bbcrd/node-tal) to make your Connect/Express routes
+Use it in conjunction with [`node-tal`](https://github.com/bbc/node-tal) to make your Connect/Express routes
 SmartTV compliant!
 
 ```js
